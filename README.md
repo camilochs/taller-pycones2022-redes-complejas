@@ -1,6 +1,7 @@
 # PyConES 2022 Granada :snake:
 ## Introducción a las redes complejas en Python [Taller]
 **30 septiembre 2022**
+
 Taller a cargo de [Patricio Reyes](https://twitter.com/pareyesv) y [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 ---
 
