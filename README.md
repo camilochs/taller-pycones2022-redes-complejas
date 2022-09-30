@@ -11,7 +11,7 @@ Cuando hablamos de redes complejas nos referimos a conexiones de cualquier tipo:
 
 ## Entorno de trabajo
 
-- Binder. Por tanto no es necesario instalar nada, unicamente, se debe acceder al enlace de Binder para cargar el notebook.
+- Binder o Google Colab. Por tanto no es necesario instalar nada, unicamente, se debe acceder al enlace.
 
 ## Metodología 
 
